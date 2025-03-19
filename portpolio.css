@@ -1,0 +1,17 @@
+* {
+    font-family: cursive;
+}
+body {
+    background-color: blanchedalmond;
+}
+h1 {
+    text-align: center;
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
